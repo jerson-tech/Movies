@@ -36,25 +36,7 @@
      "tUrl" : "https://youtu.be/I8m6P0g7RqA",
      "about": "Godzilla vs. Kong is a 2021 American monster film directed by Adam Wingard. A sequel to both Godzilla: King of the Monsters (2019) and Kong: Skull Island (2017), it is the fourth film in Legendary's MonsterVerse. It is also the 36th film in the Godzilla franchise, the 12th film in the King Kong franchise, and the fourth Godzilla film to be completely produced by a Hollywood studio.[b] The film stars Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall, Brian Tyree Henry, Shun Oguri, Eiza González, Julian Dennison, Kyle Chandler, and Demián Bichir. In the film, Kong clashes with Godzilla as humans lure the ape into the Hollow Earth to retrieve an energy source to stop Godzilla's mysterious rampages."
    },
-   {
-     "name": "CJ7 (2008)",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xf9ofSatw6bEM37JHt8Uzb5LdwUkJ0833Q&usqp=CAU",
-     "url": "https://nw6.seedr.cc/ff_get/919585716/CJ7.mkv?st=L-GHevGxY2b3an4HqH0UqA&e=1621825376",
-     "urlHd": "https://i.extraimages.net/images/2021/05/10/vlcsnap-2021-05-10-16h50m15s073.md.png",
-     "rate" : "6.4",
-     "tUrl" : "https://youtu.be/ZePBF0bBdz8",
-     "about": "Ti, a poor construction worker, struggles to provide basic education to his son Dicky. He finds an orb in the junkyard and mistakes it for a toy. It turns out to be an alien with regenerative powers."
-   },
-   {
-     "name": "The Pursuit of Happyness",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0Gfdr8aDzk_DvdOChM-bLS9kWpLY-cIgGw&usqp=CAU",
-     "url": "https://nl21.seedr.cc/ff_get/919587919/The%20Pursuit%20of%20Happyness.mkv?st=fuGBwA-oS_jMfNC_-0em8w&e=1621825817",
-     "urlHd": "https://i.extraimages.net/images/2021/05/11/vlcsnap-2021-05-11-16h55m59s028.md.png",
-     "rate" : "8.0",
-     "tUrl" : "https://youtu.be/DMOBlEcRuw8",
-     "about": "Tired of Chris's professional failures, his wife decides to separate, leaving him financially broke with an unpaid internship in a brokerage firm and his son's custody to deal with."
-   },
-   {
+{
      "name": "Justice Society: World War II",
      "img": "https://i.extraimages.net/images/2021/04/28/JS.jpg",
      "url": "https://fr15.seedr.cc/ff_get/919648923/Justice%20Society:%20World%20War%20II.mkv?st=zfGmufUaMdbxhqRqThMcQw&e=1621826743",
@@ -89,6 +71,24 @@
      "rate" : "5.2",
      "tUrl" : "https://youtu.be/Gai9XObvAog",
      "about": "A legendary rivalry reemerges when Jerry moves into New York City's finest hotel on the eve of the wedding of the century, forcing the desperate event planner to hire Tom to get rid of him. As mayhem ensues, the escalating cat-and-mouse battle soon threatens to destroy her career, the wedding, and possibly the hotel itself."
+   },
+   {
+     "name": "CJ7 (2008)",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xf9ofSatw6bEM37JHt8Uzb5LdwUkJ0833Q&usqp=CAU",
+     "url": "https://nw6.seedr.cc/ff_get/919585716/CJ7.mkv?st=L-GHevGxY2b3an4HqH0UqA&e=1621825376",
+     "urlHd": "https://i.extraimages.net/images/2021/05/10/vlcsnap-2021-05-10-16h50m15s073.md.png",
+     "rate" : "6.4",
+     "tUrl" : "https://youtu.be/ZePBF0bBdz8",
+     "about": "Ti, a poor construction worker, struggles to provide basic education to his son Dicky. He finds an orb in the junkyard and mistakes it for a toy. It turns out to be an alien with regenerative powers."
+   },
+   {
+     "name": "The Pursuit of Happyness",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0Gfdr8aDzk_DvdOChM-bLS9kWpLY-cIgGw&usqp=CAU",
+     "url": "https://nl21.seedr.cc/ff_get/919587919/The%20Pursuit%20of%20Happyness.mkv?st=fuGBwA-oS_jMfNC_-0em8w&e=1621825817",
+     "urlHd": "https://i.extraimages.net/images/2021/05/11/vlcsnap-2021-05-11-16h55m59s028.md.png",
+     "rate" : "8.0",
+     "tUrl" : "https://youtu.be/DMOBlEcRuw8",
+     "about": "Tired of Chris's professional failures, his wife decides to separate, leaving him financially broke with an unpaid internship in a brokerage firm and his son's custody to deal with."
    }
   ]
 }
