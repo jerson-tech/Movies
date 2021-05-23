@@ -1,22 +1,22 @@
 {
  "FeatureMovies": [
   {
-   "name": "Zack Snyder's Justice League",
-    "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1617174128/images_2_bil2ge.jpg",
-    "url": "https://fr19.seedr.cc/ff_get/881958742/Zack%20Snyder%20Justice%20League.mkv?st=1_Y5nr1ICeQoDUl44GBuIw&e=1619536006",
-    "urlHd": "https://res.cloudinary.com/jersondesigns/image/upload/v1617712408/images_18_mis2de.jpg",
-    "rate" : "8.2",
-    "tUrl" : "https://youtu.be/vM-Bja2Gy04",
-    "about": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists newfound ally Diana Prince to face an even greater threat. Together, Batman and Wonder Woman work quickly to recruit a team to stand against this newly awakened enemy. Despite the formation of an unprecedented league of heroes -- Batman, Wonder Woman, Aquaman, Cyborg and the Flash -- it may be too late to save the planet from an assault of catastrophic proportions."
-   },
-{
    "name": "Mortal Kombat",
     "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1619244691/images_cimqwd.jpg",
-    "url": "https://nl32.seedr.cc/ff_get/898635545/Mortal%20Kombat.mkv?st=pRbF4d7rq6n-4HQXwciy8Q&e=1619536027",
+    "url": "https://nl32.seedr.cc/ff_get/898635545/Mortal%20Kombat.mkv?st=x_sFce4ZcGAyf9pmJpmrkQ&e=1621825014",
     "urlHd": "https://res.cloudinary.com/jersondesigns/image/upload/v1619244713/maxresdefault_h8gwd5.jpg",
     "rate" : "6.6",
     "tUrl" : "https://youtu.be/NYH2sLid0Zc",
     "about": "Hunted by the fearsome warrior Sub-Zero, MMA fighter Cole Young finds sanctuary at the temple of Lord Raiden. Training with experienced fighters Liu Kang, Kung Lao and the rogue mercenary Kano, Cole prepares to stand with Earth's greatest champions to take on the enemies from Outworld in a high-stakes battle for the universe."
+   },
+  {
+   "name": "Zack Snyder's Justice League",
+    "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1617174128/images_2_bil2ge.jpg",
+    "url": "https://fr19.seedr.cc/ff_get/881958742/Zack%20Snyder%20Justice%20League.mkv?st=TdCxcMu9hy4S04ghDmff_g&e=1621825068",
+    "urlHd": "https://res.cloudinary.com/jersondesigns/image/upload/v1617712408/images_18_mis2de.jpg",
+    "rate" : "8.2",
+    "tUrl" : "https://youtu.be/vM-Bja2Gy04",
+    "about": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists newfound ally Diana Prince to face an even greater threat. Together, Batman and Wonder Woman work quickly to recruit a team to stand against this newly awakened enemy. Despite the formation of an unprecedented league of heroes -- Batman, Wonder Woman, Aquaman, Cyborg and the Flash -- it may be too late to save the planet from an assault of catastrophic proportions."
    },
    {
      "name": "Army of the Dead",
@@ -30,16 +30,25 @@
    {
      "name": "Godzilla vs Kong",
      "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1617072101/godzillavskong_lbd2kx.jpg",
-     "url": "https://nw5.seedr.cc/ff_get/882017473/Godzilla%20vs%20Kong.mkv?st=jE8IlFJVI3OgMicWj54Mdw&e=1619536045",
+     "url": "https://nl17.seedr.cc/ff_get/919584627/Godzilla%20vs%20Kong.mkv?st=_ZA8oc5be9BJgByjYe00qg&e=1621824970",
      "urlHd": "https://res.cloudinary.com/jersondesigns/image/upload/v1617012516/godzilla-vs-kong-godzilla-neon-city-hbo-max-social-featured_aeahcq.png",
      "rate" : "6.7",
      "tUrl" : "https://youtu.be/I8m6P0g7RqA",
      "about": "Godzilla vs. Kong is a 2021 American monster film directed by Adam Wingard. A sequel to both Godzilla: King of the Monsters (2019) and Kong: Skull Island (2017), it is the fourth film in Legendary's MonsterVerse. It is also the 36th film in the Godzilla franchise, the 12th film in the King Kong franchise, and the fourth Godzilla film to be completely produced by a Hollywood studio.[b] The film stars Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall, Brian Tyree Henry, Shun Oguri, Eiza González, Julian Dennison, Kyle Chandler, and Demián Bichir. In the film, Kong clashes with Godzilla as humans lure the ape into the Hollow Earth to retrieve an energy source to stop Godzilla's mysterious rampages."
    },
    {
+     "name": "CJ7",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xf9ofSatw6bEM37JHt8Uzb5LdwUkJ0833Q&usqp=CAU",
+     "url": "https://nw6.seedr.cc/ff_get/919585716/CJ7.mkv?st=L-GHevGxY2b3an4HqH0UqA&e=1621825376",
+     "urlHd": "https://i.extraimages.net/images/2021/05/10/vlcsnap-2021-05-10-16h50m15s073.md.png",
+     "rate" : "6.4",
+     "tUrl" : "https://youtu.be/ZePBF0bBdz8",
+     "about": "Ti, a poor construction worker, struggles to provide basic education to his son Dicky. He finds an orb in the junkyard and mistakes it for a toy. It turns out to be an alien with regenerative powers."
+   },
+   {
      "name": "Life in a Year",
      "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1618722439/images_eyrcwx.jpg",
-     "url": "https://nl34.seedr.cc/ff_get/894605563/Life%20in%20a%20Year.mkv?st=LHNjFXIPa8B5P-tVs9TOMw&e=1619536061",
+     "url": "https://nl34.seedr.cc/ff_get/894605563/Life%20in%20a%20Year.mkv?st=LI04y7zqFmZ2ZadgUghY0A&e=1621825089",
      "urlHd": "https://res.cloudinary.com/jersondesigns/image/upload/v1618716745/vlcsnap-2021-02-13-12h22m30s717.md_algxla.png",
      "rate" : "5.8",
      "tUrl" : "https://youtu.be/BgmJ14p4Uuk",
@@ -48,29 +57,11 @@
    {
      "name": "Coma",
      "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1618723849/images_domyze.jpg",
-     "url": "https://nl38.seedr.cc/ff_get/894645819/Coma.mkv?st=I_QCbzxyxuMDGf-lc_hwSw&e=1619536075",
+     "url": "https://nl38.seedr.cc/ff_get/894645819/Coma.mkv?st=yLo0WtvrUbhc8GrY4i3iFw&e=1621825101",
      "urlHd": "https://res.cloudinary.com/jersondesigns/image/upload/v1618723885/vlcsnap-2021-02-12-09h24m35s242.md_szkebj.png",
      "rate" : "6.3",
      "tUrl" : "https://youtu.be/5WohqZM2m8U",
      "about": "After a mysterious accident a young architect comes back to his senses in a very odd world. He must find out the exact laws and regulations of it as he fights for his life and keeps on looking for the exit to the real world."
-   },
-   {
-     "name": "The Marksman",
-     "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1618303876/dbe148d9-1d29-4fab-b12c-005eba0ac2d1_rkibwi.jpg",
-     "url": "https://nw7.seedr.cc/ff_get/891337343/The%20Marksman.mkv?st=j1GBhIIaXzKV1cYHgZz__A&e=1619536103",
-     "urlHd": "https://res.cloudinary.com/jersondesigns/image/upload/v1618303887/vlcsnap-2021-04-12-14h26m09s715.md_mrfurq.png",
-     "rate" : "5.9",
-     "tUrl" : "https://youtu.be/lEBPNi4bEbc",
-     "about": "Jim is a former Marine who lives a solitary life as a rancher along the Arizona-Mexican border. But his peaceful existence soon comes crashing down when he tries to protect a boy on the run from members of a vicious cartel."
-   },
-   {
-     "name": "Monster Hunter",
-     "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1617706473/images_11_mv9opw.jpg",
-     "url": "https://nl25.seedr.cc/ff_get/886713803/Monster%20Hunter.mkv?st=tY4tu-pxow9jvSatDg8fKA&e=1619536115",
-     "urlHd": "https://res.cloudinary.com/jersondesigns/image/upload/v1617712491/images_19_gzdazn.jpg",
-     "rate" : "5.3",
-     "tUrl" : "https://youtu.be/IyM4Bb6C3UA",
-     "about": "Behind our world, there is another -- a world of dangerous and powerful monsters that rule their domain with deadly ferocity. When Lt. Artemis and her loyal soldiers are transported from our world to the new one, the unflappable lieutenant receives the shock of her life. In a desperate battle for survival against enormous enemies with incredible powers and unstoppable, terrifying attacks, Artemis teams up with a mysterious hunter who has found a way to fight back."
    },
    {
      "name": "Tom and Jerry",
