@@ -9,6 +9,15 @@
      "tUrl": "https://youtu.be/H83kjG5RCT8",
      "about": "After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever."
    },
+   {
+     "name": "Disney's Cruella",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlhcTPx6hRGczX9bLty9FYhWFscKjeALGusQ&usqp=CAU",
+     "url": "https://nl30.seedr.cc/ff_get/923437826/Cruella.mkv?st=xhkNrf8odxG4z3YvgNnzhA&e=1622278237",
+     "urlHd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgduBmCidzVzyjI1TmyTlmjd_fpV9sVEexNw&usqp=CAU",
+     "rate" : "7.1",
+     "tUrl" : "https://youtu.be/DMOBlEcRuw8",
+     "about": "A live-action feature film following the evil exploits of Cruella de Vil, the villain from the Disney film, "101 Dalmatians'."
+   }
   {
    "name": "Mortal Kombat",
     "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1619244691/images_cimqwd.jpg",
@@ -80,15 +89,6 @@
      "rate" : "6.4",
      "tUrl" : "https://youtu.be/ZePBF0bBdz8",
      "about": "Ti, a poor construction worker, struggles to provide basic education to his son Dicky. He finds an orb in the junkyard and mistakes it for a toy. It turns out to be an alien with regenerative powers."
-   },
-   {
-     "name": "The Pursuit of Happyness",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0Gfdr8aDzk_DvdOChM-bLS9kWpLY-cIgGw&usqp=CAU",
-     "url": "https://nl21.seedr.cc/ff_get/919587919/The%20Pursuit%20of%20Happyness.mkv?st=qLJoYIX_d3yNXXrhN__Mfg&e=1621998447",
-     "urlHd": "https://i.extraimages.net/images/2021/05/11/vlcsnap-2021-05-11-16h55m59s028.md.png",
-     "rate" : "8.0",
-     "tUrl" : "https://youtu.be/DMOBlEcRuw8",
-     "about": "Tired of Chris's professional failures, his wife decides to separate, leaving him financially broke with an unpaid internship in a brokerage firm and his son's custody to deal with."
    }
   ]
 }
