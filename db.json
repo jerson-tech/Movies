@@ -1,6 +1,15 @@
 {
  "FeatureMovies": [
   {
+     "name": "Spiral From The Book of Saw",
+     "img": "https://m.media-amazon.com/images/M/MV5BYzM5ZTQ1ZWYtZTgxMi00MDdlLWI4N2QtNzgwZDA3NGEzY2IzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+     "url": "https://nl27.seedr.cc/ff_get/928489330/Spiral.mkv?st=-R42Sa5KZyREg3OhYNpTqA&e=1622895135",
+     "urlHd": "https://i.extraimages.net/images/2021/06/01/vlcsnap-2021-06-01-19h01m14s290.md.png",
+     "rate" : "5.5",
+     "tUrl" : "https://youtu.be/gzy6ORqE9IY",
+     "about": "Working in the shadow of his father, Detective Ezekiel "Zeke" Banks and his rookie partner take charge of an investigation into grisly murders that are eerily reminiscent of the city's gruesome past. Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer's morbid game."
+  },
+  {
      "name": "Army of the Dead",
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkDthX0FH-SzyixFwRAlIF-8Zm9OqNOc9lLtIMbbyOTjTwaDuE",
      "url": "https://nw2.seedr.cc/ff_get/920408021/Army%20of%20the%20Dead.mkv?st=A1WVDAu4Lxmki6RgkoTo2Q&e=1622432342",
@@ -62,15 +71,6 @@
      "rate" : "6.7",
      "tUrl" : "https://youtu.be/I8m6P0g7RqA",
      "about": "Godzilla vs. Kong is a 2021 American monster film directed by Adam Wingard. A sequel to both Godzilla: King of the Monsters (2019) and Kong: Skull Island (2017), it is the fourth film in Legendary's MonsterVerse. It is also the 36th film in the Godzilla franchise, the 12th film in the King Kong franchise, and the fourth Godzilla film to be completely produced by a Hollywood studio.[b] The film stars Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall, Brian Tyree Henry, Shun Oguri, Eiza González, Julian Dennison, Kyle Chandler, and Demián Bichir. In the film, Kong clashes with Godzilla as humans lure the ape into the Hollow Earth to retrieve an energy source to stop Godzilla's mysterious rampages."
-   },
-   {
-     "name": "Lights Out",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuBvXaTtnOIDgv0x3AzmL9MRS4x40-w-4UHV8o5k_nqCu48d72",
-     "url": "https://fr15.seedr.cc/ff_get/920401904/Lights%20Out.mkv?st=0CM6mxFDkvPCjg3xR_gtWQ&e=1622432460",
-     "urlHd": "https://i.extraimages.net/images/2021/05/08/vlcsnap-2021-05-08-10h10m57s430.md.png",
-     "rate" : "6.3",
-     "tUrl" : "https://youtu.be/6LiKKFZyhRU",
-     "about": "Rebecca and her boyfriend try to investigate the connection between her mother and her imaginary friend, Diana, after her stepfather is murdered by a supernatural entity."
    },
    
    {
