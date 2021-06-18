@@ -1,5 +1,14 @@
 {
  "FeatureMovies": [
+   {
+     "name": "Jagame Thandhiram (ஜகமே தந்திரம்)",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy_qg_MQSr4lo8Bb8JDgRjv1APceqniBULsg&usqp=CAU",
+     "url": "https://nw6.seedr.cc/ff_get/919585716/CJ7.mkv?st=npJ9tf-iDk8SgfG6A33R8g&e=1623382370",
+     "urlHd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6cKLH6yXZGapBLr2-rBXf6FD6UKX6g9Eeiw&usqp=CAU",
+     "rate" : "Not Yet",
+     "tUrl" : "https://youtu.be/2OtgYcd83Qg",
+     "about": "When a clever, carefree gangster is recruited to help an overseas crime lord take down a rival, he is caught off guard by the moral dilemmas that follow."
+   },
   {
      "name": "Spiral From The Book of Saw",
      "img": "https://m.media-amazon.com/images/M/MV5BYzM5ZTQ1ZWYtZTgxMi00MDdlLWI4N2QtNzgwZDA3NGEzY2IzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
@@ -80,15 +89,6 @@
      "rate" : "6.7",
      "tUrl" : "https://youtu.be/I8m6P0g7RqA",
      "about": "Godzilla vs. Kong is a 2021 American monster film directed by Adam Wingard. A sequel to both Godzilla: King of the Monsters (2019) and Kong: Skull Island (2017), it is the fourth film in Legendary's MonsterVerse. It is also the 36th film in the Godzilla franchise, the 12th film in the King Kong franchise, and the fourth Godzilla film to be completely produced by a Hollywood studio.[b] The film stars Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall, Brian Tyree Henry, Shun Oguri, Eiza González, Julian Dennison, Kyle Chandler, and Demián Bichir. In the film, Kong clashes with Godzilla as humans lure the ape into the Hollow Earth to retrieve an energy source to stop Godzilla's mysterious rampages."
-   },
-   {
-     "name": "CJ7 (2008)",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xf9ofSatw6bEM37JHt8Uzb5LdwUkJ0833Q&usqp=CAU",
-     "url": "https://nw6.seedr.cc/ff_get/919585716/CJ7.mkv?st=npJ9tf-iDk8SgfG6A33R8g&e=1623382370",
-     "urlHd": "https://i.extraimages.net/images/2021/05/10/vlcsnap-2021-05-10-16h50m15s073.md.png",
-     "rate" : "6.4",
-     "tUrl" : "https://youtu.be/ZePBF0bBdz8",
-     "about": "Ti, a poor construction worker, struggles to provide basic education to his son Dicky. He finds an orb in the junkyard and mistakes it for a toy. It turns out to be an alien with regenerative powers."
    }
   ]
 }
