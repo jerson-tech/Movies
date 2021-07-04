@@ -1,6 +1,42 @@
 {
  "FeatureMovies": [
   {
+     "name": "Peter Rabbit 2: The Runaway",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl5c3j2rG7ReKSDmpmphVXvJ50B-X7wCKFX7XOn_Vl76FtmjH2ssB-Kq8x&s=10",
+     "url": "https://nl27.seedr.cc/ff_get/928489330/Spiral.mkv?st=10VZnNSrCpet-wph6msbZQ&e=1623382157",
+     "urlHd": "https://i.extraimages.net/images/2021/07/01/vlcsnap-2021-07-01-07h20m12s737.md.png",
+     "rate" : "6.2",
+     "tUrl" : "https://youtu.be/PWBcqCz7l_c",
+     "about": "Bea, Thomas and the rabbits have created a makeshift family, but despite his best efforts, Peter can't seem to shake his mischievous reputation. Venturing out of the garden, Peter finds himself in a world where his mischief is appreciated. However, when his family risks everything to come looking for him, Peter must figure out what kind of bunny he wants to be."
+  },
+  {
+     "name": "Hitman's Wife’s Bodyguard",
+     "img": "https://i.extraimages.net/images/2021/07/02/MV5BNDkzYm.jpg",
+     "url": "https://nl27.seedr.cc/ff_get/928489330/Spiral.mkv?st=10VZnNSrCpet-wph6msbZQ&e=1623382157",
+     "urlHd": "https://i.extraimages.net/images/2021/07/02/vlcsnap-2021-07-02-03h37m25s672.md.png",
+     "rate" : "6.4",
+     "tUrl" : "https://youtu.be/9C0l31YcahQ",
+     "about": "The world's most lethal odd couple -- bodyguard Michael Bryce and hit man Darius Kincaid -- are back for another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius's even more volatile wife. Soon, all three are in over their heads when a madman's sinister plot threatens to leave Europe in total chaos."
+  },
+  {
+     "name": "The Tomorrow War",
+     "img": "https://i.extraimages.net/images/2021/07/02/5675685214852.jpg",
+     "url": "https://nl27.seedr.cc/ff_get/928489330/Spiral.mkv?st=10VZnNSrCpet-wph6msbZQ&e=1623382157",
+     "urlHd": "https://i.extraimages.net/images/2021/07/02/vlcsnap-2021-07-01-17h55m29s726.md.png",
+     "rate" : "6.8",
+     "tUrl" : "https://youtu.be/RQjEbkV-9ZM",
+     "about": "A man is drafted to fight in a future war where the fate of humanity relies on his ability to confront his past."
+  },
+  {
+     "name": "A Quiet Place II",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGjQTw0bd8bFYDMvBwK_BLJqkYo-FgtYZtw&usqp=CAU",
+     "url": "https://nw2.seedr.c/ff_get/923912867/Quiet%20Place%20II.mkv?st=ZXggjHVA4oLdJ6V8aCM-Xg&e=1623382278",
+     "urlHd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-yIcLQfdy9JUlG7gwvvxxMJhiSr01GpqfJw&usqp=CAU",
+     "rate" : "8.1",
+     "tUrl" : "https://youtu.be/BpdDN9d9Jio",
+     "about": "Following the deadly events at home, the Abbott family must now face the terrors of the outside world as they continue their fight for survival in silence. Forced to venture into the unknown, they quickly realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path."
+   },
+  {
      "name": "Spiral From The Book of Saw",
      "img": "https://m.media-amazon.com/images/M/MV5BYzM5ZTQ1ZWYtZTgxMi00MDdlLWI4N2QtNzgwZDA3NGEzY2IzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
      "url": "https://nl27.seedr.cc/ff_get/928489330/Spiral.mkv?st=10VZnNSrCpet-wph6msbZQ&e=1623382157",
@@ -37,15 +73,6 @@
      "about": "Friends: The Reunion, also known as The One Where They Get Back Together, is a 2021 reunion special of the American television sitcom Friends. The episode is executive produced by the show's co-creators, Marta Kauffman and David Crane, Kevin S. Bright, the show's main cast, and Ben Winston."
    },
    {
-     "name": "A Quiet Place II",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGjQTw0bd8bFYDMvBwK_BLJqkYo-FgtYZtw&usqp=CAU",
-     "url": "https://nw2.seedr.c/ff_get/923912867/Quiet%20Place%20II.mkv?st=ZXggjHVA4oLdJ6V8aCM-Xg&e=1623382278",
-     "urlHd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-yIcLQfdy9JUlG7gwvvxxMJhiSr01GpqfJw&usqp=CAU",
-     "rate" : "8.1",
-     "tUrl" : "https://youtu.be/BpdDN9d9Jio",
-     "about": "Following the deadly events at home, the Abbott family must now face the terrors of the outside world as they continue their fight for survival in silence. Forced to venture into the unknown, they quickly realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path."
-   },
-   {
      "name": "Disney's Cruella",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlhcTPx6hRGczX9bLty9FYhWFscKjeALGusQ&usqp=CAU",
      "url": "https://nl36.seedr.cc/ff_get/923466346/Cruella.mkv?st=RTHCYe-IbXtAGxBhraw_4Q&e=1623382442",
@@ -55,15 +82,6 @@
      "about": "A live-action feature film following the evil exploits of Cruella de Vil, the villain from the Disney film, 101 Dalmatians.."
    },
   {
-   "name": "Mortal Kombat",
-    "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1619244691/images_cimqwd.jpg",
-    "url": "https://nl17.seedr.cc/ff_get/928481685/Mortal%20Kombat.mkv?st=kgDMY01Tm86xbW8EDyOEEQ&e=1623382294",
-    "urlHd": "https://res.cloudinary.com/jersondesigns/image/upload/v1619244713/maxresdefault_h8gwd5.jpg",
-    "rate" : "6.6",
-    "tUrl" : "https://youtu.be/NYH2sLid0Zc",
-    "about": "Hunted by the fearsome warrior Sub-Zero, MMA fighter Cole Young finds sanctuary at the temple of Lord Raiden. Training with experienced fighters Liu Kang, Kung Lao and the rogue mercenary Kano, Cole prepares to stand with Earth's greatest champions to take on the enemies from Outworld in a high-stakes battle for the universe."
-   },
-  {
    "name": "Zack Snyder's Justice League",
     "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1617174128/images_2_bil2ge.jpg",
     "url": "https://fr19.seedr.cc/ff_get/881958742/Zack%20Snyder%20Justice%20League.mkv?st=Qu6TIcbJFVce5opHuOAPaQ&e=1623382307",
@@ -71,15 +89,6 @@
     "rate" : "8.2",
     "tUrl" : "https://youtu.be/vM-Bja2Gy04",
     "about": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists newfound ally Diana Prince to face an even greater threat. Together, Batman and Wonder Woman work quickly to recruit a team to stand against this newly awakened enemy. Despite the formation of an unprecedented league of heroes -- Batman, Wonder Woman, Aquaman, Cyborg and the Flash -- it may be too late to save the planet from an assault of catastrophic proportions."
-   },
-   {
-     "name": "Godzilla vs Kong",
-     "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1617072101/godzillavskong_lbd2kx.jpg",
-     "url": "https://nl17.seedr.cc/ff_get/919584627/Godzilla%20vs%20Kong.mkv?st=-r1NDtsboelcISvjPtmSuA&e=1623382348",
-     "urlHd": "https://res.cloudinary.com/jersondesigns/image/upload/v1617012516/godzilla-vs-kong-godzilla-neon-city-hbo-max-social-featured_aeahcq.png",
-     "rate" : "6.7",
-     "tUrl" : "https://youtu.be/I8m6P0g7RqA",
-     "about": "Godzilla vs. Kong is a 2021 American monster film directed by Adam Wingard. A sequel to both Godzilla: King of the Monsters (2019) and Kong: Skull Island (2017), it is the fourth film in Legendary's MonsterVerse. It is also the 36th film in the Godzilla franchise, the 12th film in the King Kong franchise, and the fourth Godzilla film to be completely produced by a Hollywood studio.[b] The film stars Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall, Brian Tyree Henry, Shun Oguri, Eiza González, Julian Dennison, Kyle Chandler, and Demián Bichir. In the film, Kong clashes with Godzilla as humans lure the ape into the Hollow Earth to retrieve an energy source to stop Godzilla's mysterious rampages."
    }
   ]
 }
